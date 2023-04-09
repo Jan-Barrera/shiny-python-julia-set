@@ -21,3 +21,4 @@ To run the application
 ```
 shiny run --reload
 ```
+Then open browser to http://localhost:8000
